@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**AnaisG14/AnaisG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Anaïs Gatard, développeuse Python freelance spécialisée dans la création de solutions sur mesure pour les PME, TPE et associations. Mes domaines d'expertise incluent :
 
-Here are some ideas to get you started:
+- **Automatisation de tâches** avec Python
+- **Développement d'applications** avec Django
+- **Création d'APIs** avec FastAPI et Django REST Framework
+- **Développement web** avec HTML/CSS/JavaScript/Angular
+- **Gestion de projets techniques** et accompagnement des clients
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vous pouvez consulter mes projets réalisés ci-dessous et découvrir mon parcours professionnel sur https://www.linkedin.com/in/ana%C3%AFs-gatard-2b1a241aa/.
+
+## Projets phares :
+- 
+
+N’hésitez pas à me contacter pour toute question ou projet à venir !
+
