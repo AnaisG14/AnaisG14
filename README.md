@@ -8,10 +8,20 @@ Je suis Anaïs Gatard, développeuse Python freelance spécialisée dans la cré
 - **Développement web** avec HTML/CSS/JavaScript/Angular
 - **Gestion de projets techniques** et accompagnement des clients
 
-Vous pouvez consulter mes projets réalisés ci-dessous et découvrir mon parcours professionnel sur https://www.linkedin.com/in/ana%C3%AFs-gatard-2b1a241aa/.
+## Projets professionnels (Confidentiels)
 
-## Projets phares :
-- 
+Bien que je ne puisse pas partager le code de certains projets pour des raisons de confidentialité, voici des exemples de solutions développées pour mes clients :
+
+- **Application de gestion documentaire** : Création d'une solution sur mesure pour une entreprise de numérisation de magazines, utilisant Django pour automatiser l'organisation des fichiers et l'exportation des données pour la facturation.
+- **Maintenance et ajout de fonctionnalités** : Travail sur un backoffice en PHP pour un kiosque en ligne, intégrant de nouvelles fonctionnalités et améliorant les performances système.
+- **Développement d'API sécurisée** : Conception d'une API en FastAPI pour permettre la communication entre un site web Angular et un système existant, avec des optimisations de sécurité et de performances.
+
+Pour plus d'informations sur ces projets et mes compétences, rendez-vous sur mon profil linkedin https://www.linkedin.com/in/ana%C3%AFs-gatard-2b1a241aa/.
+
+## Projets éducatifs
+- Logiciel software pour gérer hors ligne et en console un tournoi d'échecs : Un logiciel hors ligne conçu pour un club d'échecs, permettant de gérer des tournois avec une base de données légère, un fonctionnement multiplateforme (Linux, macOS, Windows) et une interface en ligne de commande.  
+Voir le projet -> (https://github.com/AnaisG14/tournoi-echecs-public/blob/main/README.md) : 
+
 
 N’hésitez pas à me contacter pour toute question ou projet à venir !
 
