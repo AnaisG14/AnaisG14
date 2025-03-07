@@ -18,10 +18,14 @@ Bien que je ne puisse pas partager le code de certains projets pour des raisons 
 
 Pour plus d'informations sur ces projets et mes compétences, rendez-vous sur mon profil linkedin https://www.linkedin.com/in/ana%C3%AFs-gatard-2b1a241aa/.
 
-## Projets éducatifs
-- Logiciel software pour gérer hors ligne et en console un tournoi d'échecs : Un logiciel hors ligne conçu pour un club d'échecs, permettant de gérer des tournois avec une base de données légère, un fonctionnement multiplateforme (Linux, macOS, Windows) et une interface en ligne de commande.  
-Voir le projet -> (https://github.com/AnaisG14/tournoi-echecs-public/blob/main/README.md) : 
-
-
+## Projets personnels
+- **Logiciel software** pour gérer hors ligne et en console un tournoi d'échecs : Un logiciel hors ligne conçu pour un club d'échecs, permettant de gérer des tournois avec une base de données légère, un fonctionnement multiplateforme (Linux, macOS, Windows) et une interface en ligne de commande.  
+Voir le projet -> https://github.com/AnaisG14/tournoi-echecs-public/blob/main/README.md : 
+- **Bot telegram relié à Google Cloud Plateform** pour enregistrer des informations dans un fichier google sheet.
+Voir le projet -> https://github.com/AnaisG14/findJob
+- **Mise en place d'un cookiecutter pour Django et Vite** : permet de créer un projet django et vite avec possibilité d'ajouter les options wagtails.
+Voir le projet -> https://github.com/AnaisG14/cookiecutter-django-vite
+- **Scrapping d'une librairie en ligne** : Récupérère des informations sur les livres en vente et les stocke dans différents fichiers .csv en fonction de leur catégories.
+voir le projet -> https://github.com/AnaisG14/Scrapping-library
 N’hésitez pas à me contacter pour toute question ou projet à venir !
 
