@@ -27,5 +27,7 @@ Voir le projet -> https://github.com/AnaisG14/findJob
 Voir le projet -> https://github.com/AnaisG14/cookiecutter-django-vite
 - **Scrapping d'une librairie en ligne** : Récupérère des informations sur les livres en vente et les stocke dans différents fichiers .csv en fonction de leur catégories.
 voir le projet -> https://github.com/AnaisG14/Scrapping-library
+
+
 N’hésitez pas à me contacter pour toute question ou projet à venir !
 
